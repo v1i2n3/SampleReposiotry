@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61CCF7D5-A798-431E-93D6-9CAFDD086270</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlueList Cordova Web</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FBBCBA43-46A7-4138-A231-B622683B143B</key>
+		<string>https://hub.jazz.net/git/mobilecloud/bluelist-cordova</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/BlueList Cordova Web.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FBBCBA43-46A7-4138-A231-B622683B143B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://hub.jazz.net/git/mobilecloud/bluelist-cordova</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FBBCBA43-46A7-4138-A231-B622683B143B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBBCBA43-46A7-4138-A231-B622683B143B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bluelist-cordova</string>
+		</dict>
+	</array>
+</dict>
+</plist>

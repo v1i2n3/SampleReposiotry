@@ -1,0 +1,25 @@
+{
+  "name": "bluelist-cordova",
+  "version": "0.3.3",
+  "authors": [
+    "Matthew Perrins <matthew_perrins@uk.ibm.com>"
+  ],
+  "description": "BlueList Mobile Cordova with JavaScript SDK",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bluemix"
+  ],
+  "license": "Apache2",
+  "homepage": "bluemix.net",
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-touch": "~1.2.16",
+    "angular-sanitize": "~1.2.16",
+    "ibmdata": "git+https://hub.jazz.net/git/bluemixmobilesdk/ibmdata-javascript",
+    "ibmbluemix": "git+https://hub.jazz.net/git/bluemixmobilesdk/ibmbluemix-javascript"
+
+  }
+}
